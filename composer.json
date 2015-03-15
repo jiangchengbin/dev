@@ -4,7 +4,7 @@
     "homepage": "https://github.com/jiangchengbin/dev",
     "license":"MIT",
     "keywords": ["jiangchengbin", "dev", "debug"],
-    "version":"1.0.0",
+    "version":"1.0.1",
     "authors": [
 		{
 			"name": "Joe Jiang",
@@ -19,10 +19,5 @@
 		"psr-4": {
 			"Jiangchengbin\\Dev\\": "src/"
 		}
-	},
-    "autoload":{
-        "psr-4":{
-            "Jiangchengbin\\Dev\\":"src/"
-        }
-    }
+	}
 }
